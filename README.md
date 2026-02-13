@@ -13,16 +13,11 @@
 - [Ticket system (Angular+Django)](https://github.com/Bartmannn/ticket-system)
 
 <h2> 📞 Odezwij się:</h2>
+
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:bohdziewicz.bartosz@gmail.com)
+
+
  
-<p align="left">
-  <a href="https://linkedin.com/in/bartosz-bohdziewicz" target="_blank">
-      <img align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-          alt="bartosz-bohdziewicz"
-          height="30"
-          width="40" />
-  </a>
-</p>
 
 <h2 align="left">🏅 Języki i narzędzia:</h2>
 
