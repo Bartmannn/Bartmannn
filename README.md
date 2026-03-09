@@ -9,8 +9,8 @@
 - [Sudoku Łamacz (Python+TKinter)](https://github.com/bartmannn/sudoku-solver)
 - [ISS Tracker (Python+TKinter)](https://github.com/bartmannn/iss-tracker)
 - [Organizator plików (Python)](https://github.com/bartmannn/file-organizer)
-- [PConfigurer (React+Django)](https://github.com/bartmannn/pconfigurer)
-- [Ticket system (Angular+Django)](https://github.com/Bartmannn/ticket-system)
+- [PConfigurer (React+Django+Docker)](https://github.com/bartmannn/pconfigurer)
+- [Ticket system (Angular+Django+Docker)](https://github.com/Bartmannn/ticket-system)
 
 <h2> 📞 Odezwij się:</h2>
 
