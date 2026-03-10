@@ -11,10 +11,10 @@
 - [Ticket System (Angular+Django+Docker)](https://github.com/Bartmannn/ticket-system)
 - [Compiler (Python)](https://github.com/bartmannn/Compiler)
 - [15-Puzzle implementation with solver (Java)](https://github.com/bartmannn/15-puzzle)
-- [File Organizer (Python)](https://github.com/bartmannn/file-organizer) 
+- [File Organizer (Python)](https://github.com/bartmannn/file-organizer)
+- [Guess the Song Game (Flask)](https://github.com/Bartmannn/guess-the-song) 
 - [Bash Scripts](https://github.com/Bartmannn/bash)
 - [RC4 Cipher Implementation (Python)](https://github.com/bartmannn/RC4)
-- [Music Quiz (Python)](https://github.com/bartmannn/musical-quiz)
 - [Sudoku Solver (Python+TKinter)](https://github.com/bartmannn/sudoku-solver)
 - [ISS Tracker (Python+TKinter)](https://github.com/bartmannn/iss-tracker)
 
