@@ -10,12 +10,14 @@
 - [PConfigurer (React+Django+Docker)](https://github.com/bartmannn/pconfigurer)
 - [Ticket System (Angular+Django+Docker)](https://github.com/Bartmannn/ticket-system)
 - [Compiler (Python)](https://github.com/bartmannn/Compiler)
-- [Guess the Song Game (Flask)](https://github.com/Bartmannn/guess-the-song) 
+- [TSP with GA (Golang+Python)](https://github.com/Bartmannn/tsp-ga)
+- [Guess the Song Game (Flask)](https://github.com/Bartmannn/guess-the-song)
 - [15-Puzzle implementation with solver (Java)](https://github.com/bartmannn/15-puzzle)
 - [File Organizer (Python)](https://github.com/bartmannn/file-organizer)
+- [Goroutines exercise (Golang)](https://github.com/Bartmannn/goroutines-lab)
 - [Bash Scripts](https://github.com/Bartmannn/bash)
 - [RC4 Cipher Implementation (Python)](https://github.com/bartmannn/RC4)
-- [Sudoku Solver (Python+TKinter)](https://github.com/bartmannn/sudoku-solver)
+- [Sudoku Solver (Python+TKinter)](https://github.com/Bartmannn/tsp-ga)
 - [ISS Tracker (Python+TKinter)](https://github.com/bartmannn/iss-tracker)
 
 <h2> 📞 Get in touch:</h2>
