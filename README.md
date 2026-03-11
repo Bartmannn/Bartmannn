@@ -11,7 +11,7 @@
 - [Ticket System (Angular+Django+Docker)](https://github.com/Bartmannn/ticket-system)
 - [Compiler (Python)](https://github.com/bartmannn/Compiler)
 - [TSP with GA (Golang+Python)](https://github.com/Bartmannn/tsp-ga)
-- [Guess the Song Game (Flask)](https://github.com/Bartmannn/guess-the-song)
+- [Guess the Song Game (Flask+HTML/CSS/JS)](https://github.com/Bartmannn/guess-the-song)
 - [15-Puzzle implementation with solver (Java)](https://github.com/bartmannn/15-puzzle)
 - [File Organizer (Python)](https://github.com/bartmannn/file-organizer)
 - [Goroutines exercise (Golang)](https://github.com/Bartmannn/goroutines-lab)
