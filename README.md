@@ -7,8 +7,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- [PConfigurer (React+Django+Docker)](https://github.com/bartmannn/pconfigurer)
-- [Ticket System (Angular+Django+Docker)](https://github.com/Bartmannn/ticket-system)
+- [PConfigurer (React+Django)](https://github.com/bartmannn/pconfigurer)
+- [Ticket System (Angular+Django)](https://github.com/Bartmannn/ticket-system)
 - [Compiler (Python)](https://github.com/bartmannn/Compiler)
 - [TSP with GA (Golang+Python)](https://github.com/Bartmannn/tsp-ga)
 - [Guess the Song Game (Flask+HTML/CSS/JS)](https://github.com/Bartmannn/guess-the-song)
