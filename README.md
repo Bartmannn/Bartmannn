@@ -8,12 +8,13 @@
 <h2>👨‍💻 Projects:</h2>
 
 - [PConfigurer (React+Django)](https://github.com/bartmannn/pconfigurer)
-- [Ticket System (Angular+Django)](https://github.com/Bartmannn/ticket-system)
 - [Compiler (Python)](https://github.com/bartmannn/Compiler)
 - [TSP with GA (Golang+Python)](https://github.com/Bartmannn/tsp-ga)
 - [Guess the Song Game (Flask+HTML/CSS/JS)](https://github.com/Bartmannn/guess-the-song)
 - [15-Puzzle implementation with solver (Java)](https://github.com/bartmannn/15-puzzle)
+- [Sudoku Solver Web (React+Golang+Prolog)](https://github.com/Bartmannn/sudoku-solver-web)
 - [File Organizer (Python)](https://github.com/bartmannn/file-organizer)
+- [Ticket System (Angular+Django)](https://github.com/Bartmannn/ticket-system)
 - [Goroutines exercise (Golang)](https://github.com/Bartmannn/goroutines-lab)
 - [Bash Scripts](https://github.com/Bartmannn/bash)
 - [RC4 Cipher Implementation (Python)](https://github.com/bartmannn/RC4)
