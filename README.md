@@ -17,7 +17,7 @@
 - [Goroutines exercise (Golang)](https://github.com/Bartmannn/goroutines-lab)
 - [Bash Scripts](https://github.com/Bartmannn/bash)
 - [RC4 Cipher Implementation (Python)](https://github.com/bartmannn/RC4)
-- [Sudoku Solver (Python+TKinter)](https://github.com/Bartmannn/tsp-ga)
+- [Sudoku Solver (Python+TKinter)](https://github.com/Bartmannn/sudoku-solver)
 - [ISS Tracker (Python+TKinter)](https://github.com/bartmannn/iss-tracker)
 
 <h2> 📞 Get in touch:</h2>
